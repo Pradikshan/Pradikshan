@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pradikshan
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... CS at APIIT
+- 🌱 I’m currently learning ... CS at Staffordshire University
 - 💞️ I’m looking to collaborate on ... anything related to web develepment as it is in my area of expertise
 - 📫 How to reach me ... email me at pradikshan234@gmail.com 
 
